@@ -1,0 +1,7 @@
+{
+  "name": "Quality checks 👌🧪",
+  "description": "Plantilla inicial y genérica de comprobaciones de calidad para Pull Requests",
+  "categories": [
+    "code-quality"
+  ]
+}
